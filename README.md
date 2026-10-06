@@ -10,6 +10,7 @@
 
 | 项目 | 简介 |
 |---|---|
+| 🎁 [GitHub Wrapped](https://github.com/huqinyuan923-hue/github-wrapped) | GitHub 年度报告生成器：一键生成提交、星标、语言分布报告卡片，[在线使用](https://huqinyuan923-hue.github.io/github-wrapped/) |
 | 🔧 [Toolbox](https://github.com/huqinyuan923-hue/toolbox) | 开发者工具箱：JSON 格式化、时间戳、二维码、密码生成、Markdown 预览、每日一签。纯前端、零构建、[在线使用](https://huqinyuan923-hue.github.io/toolbox/) |
 | 📖 [GitHub Guide](https://github.com/huqinyuan923-hue/github-guide) | 写给零基础小白的 GitHub 入门教程：核心概念、手把手实战、Pages 建站与首个 PR、AI 编程工具指南 |
 | 🕹️ [Arcade Hub](https://github.com/huqinyuan923-hue/arcade-hub) | 网页小游戏合集 |
