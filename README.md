@@ -12,8 +12,8 @@
 |---|---|
 | 📡 [订阅站 RSS Reader](https://github.com/huqinyuan923-hue/rss-reader) | 私有订阅聚合：Vercel Cron 定时抓取、未读管理、粘贴首页自动发现订阅源（Next.js + Drizzle + Neon） |
 | 💎 [Treasury](https://github.com/huqinyuan923-hue/treasury) | 书签云收藏：私有部署的个人书签库，自动抓取标题、标签整理、全文搜索（Next.js + Drizzle + Neon） |
-| 🎁 [GitHub Wrapped](https://github.com/huqinyuan923-hue/github-wrapped) | GitHub 年度报告生成器：一键生成提交、星标、语言分布报告卡片，[在线使用](https://huqinyuan923-hue.github.io/github-wrapped/) |
-| 🔧 [Toolbox](https://github.com/huqinyuan923-hue/toolbox) | 开发者工具箱：JSON 格式化、时间戳、二维码、密码生成、Markdown 预览、每日一签。纯前端、零构建、[在线使用](https://huqinyuan923-hue.github.io/toolbox/) |
+| 🎁 [GitHub Wrapped](https://github.com/huqinyuan923-hue/github-wrapped) | GitHub 年度报告生成器：一键生成提交、星标、语言分布报告卡片，[在线使用](https://wrapped.adcakeyuan.top) |
+| 🔧 [Toolbox](https://github.com/huqinyuan923-hue/toolbox) | 开发者工具箱（20 个工具）：JSON 格式化、时间戳、二维码、密码生成、音乐解锁（KGM/QMC/NCM/KGG）等，纯前端零构建、[在线使用](https://toolbox.adcakeyuan.top) |
 | 📖 [GitHub Guide](https://github.com/huqinyuan923-hue/github-guide) | 写给零基础小白的 GitHub 入门教程：核心概念、手把手实战、Pages 建站与首个 PR、AI 编程工具指南 |
 | 🕹️ [Arcade Hub](https://github.com/huqinyuan923-hue/arcade-hub) | 网页小游戏合集 |
 | 📚 [DeepLearn 深学](https://github.com/huqinyuan923-hue/deeplearn) | 借鉴 DeepTutor 学习模式的静态学习网站（Next.js + Hono + Neon Postgres） |
